@@ -1,0 +1,29 @@
+Ejercicio 1
+Escribe un programa que muestre la tirada de tres dados. Se debe mostrar
+también la suma total (los puntos que suman entre los tres dados).
+
+Ejercicio 2
+Realiza un programa que muestre al azar el nombre de una carta de la baraja
+francesa. Esta baraja está dividida en cuatro palos: espadas, corazones, diamantes
+y tréboles. Cada palo está formado por 13 cartas, de las cuales 9 cartas son
+numerales y 4 literales: 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K y A (que sería el
+1). 
+Para convertir un número en una cadena de caracteres podemos usar
+String.valueOf(n).
+
+Ejercicio 3
+Igual que el ejercicio anterior pero con la baraja española. Se utilizará la baraja
+de 40 cartas: 2, 3, 4, 5, 6, 7, sota, caballo, rey y as.
+
+Ejercicio 4
+Muestra 20 números enteros aleatorios entre 0 y 10 (ambos incluidos) separados por espacios.
+
+Ejercicio 5
+Muestra 50 números enteros aleatorios entre 100 y 199 (ambos incluidos)
+separados por espacios. Muestra también el máximo, el mínimo y la media
+de esos números.
+
+Ejercicio 6
+Escribe un programa que piense un número al azar entre 0 y 100. El usuario debe adivinarlo y tiene para ello 5 oportunidades. Después de cada intento fallido,
+el programa dirá cuántas oportunidades quedan y si el número introducido es
+menor o mayor que el número secreto
