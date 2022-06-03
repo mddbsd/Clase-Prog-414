@@ -1,0 +1,73 @@
+Arrays Unidimensionales
+
+Ejercicio 1
+Escribe un programa que lea 10 números por teclado y que luego los muestre
+en orden inverso, es decir, el primero que se introduce es el último en mostrarse
+y viceversa.
+
+Ejercicio 2
+Define tres arrays de 20 números enteros cada una, con nombres
+“numero”, “cuadrado” y “cubo”. Carga el array “numero” con valores
+aleatorios entre 0 y 100. En el array “cuadrado” se deben almacenar
+los cuadrados de los valores que hay en el array “numero”. En el
+array “cubo” se deben almacenar los cubos de los valores que hay
+en “numero”. A continuación, muestra el contenido de los tres arrays
+dispuesto en tres columnas.
+
+Ejercicio 3
+Escribe un programa que pida 10 números por teclado y que luego muestre los
+números introducidos junto con las palabras “máximo” y “mínimo” al lado del
+máximo y del mínimo respectivamente.
+
+Ejercicio 4
+Realiza un programa que pida 8 números enteros y que luego muestre esos números
+junto con la palabra "par" o "impar" según corresponda.
+
+Ejercicio 5
+Escribe un programa que genere 20 números enteros aleatorios entre 0 y 100 y que los
+almacene en un array. El programa debe ser capaz de pasar todos los números pares a
+las primeras posiciones del array (del 0 en adelante) y todos los números impares a
+las celdas restantes. Utiliza arrays auxiliares si es necesario.
+
+////////////////////////////////////////////////////////////////////////////////////////
+
+Arrays Bidimensionales
+
+Ejercicio 1
+Define un array de números enteros de 3 filas por 6 columnas con
+nombre "num" y asigna los valores según la siguiente tabla:
+num:
+    Columna 0   Columna 1   Columna 2   Columna 3   Columna 4   Columna 5
+    Fila 0     0          30           2                                   5
+    Fila 1    75                                               0
+    Fila 2                            -2           9                      11
+ 
+Muestra el contenido de todos los elementos del array dispuestos en
+forma de tabla como se muestra en la figura.
+
+Ejercicio 2 
+Escribe un programa que pida 20 números enteros.
+Estos números se deben introducir en un array de 4 filas por 5 columnas.
+El programa mostrará las sumas parciales de filas y columnas igual que
+si se tratara de una hoja de calculo.
+La suma total debe aparecer en la esquina inferior derecha.
+
+Ejercicio 3
+Modifica el programa anterior de tal forma que los números que se introducen
+en el array se generen de forma aleatoria (valores entre 100 y 999).
+
+Ejercicio 4
+Modifica el programa anterior de tal forma que las sumas parciales y la suma
+total aparezcan en la pantalla con un pequeño retardo, dando la impresión de
+que el ordenador se queda “pensando” antes de mostrar los números.
+
+Ejercicio 4
+Modifica el programa anterior de tal forma que las sumas parciales y la suma
+total aparezcan en la pantalla con un pequeño delay, dando la impresión de
+que el ordenador se queda “pensando” antes de mostrar los números.
+
+Ejercicio 5
+Realiza un programa que rellene un array de 6 filas por 10 columnas con
+números enteros positivos comprendidos entre 0 y 1000 (ambos incluidos). A
+continuación, el programa deberá dar la posición tanto del máximo como del
+mínimo.
