@@ -1,0 +1,40 @@
+Ejercicio 1
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
+
+Ejercicio 2
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle while.
+
+Ejercicio 3
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle do-while.
+
+Ejercicio 4
+Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás utilizando
+un bucle for.
+
+Ejercicio 5
+Muestra los números del 320 al 160, contando de 20 en 20 hacia atrás utilizando
+un bucle while.
+
+Ejercicio 6
+Muestra los números del 320 al 160, contando de 20 en 20 utilizando un bucle
+do-while.
+
+Ejercicio 7
+Realiza el control de acceso a una caja fuerte. La combinación será un
+número de 4 cifras. El programa nos pedirá la combinación para abrirla. Si no
+acertamos, se nos mostrará el mensaje “Lo siento, esa no es la combinación”
+y si acertamos se nos dirá “La caja fuerte se ha abierto satisfactoriamente”.
+Tendremos cuatro oportunidades para abrir la caja fuerte.
+
+Ejercicio 8
+Muestra la tabla de multiplicar de un número introducido por teclado.
+
+Ejercicio 9
+Escribe un programa que calcule la media de un conjunto de números positivos
+introducidos por teclado. El programa no sabe cuántos números se
+introducirán. El usuario indicará que ha terminado de introducir los datos
+cuando meta un número negativo.
+
+Ejercicio 10
+Escribe un programa que lea una lista de diez números y determine cuántos
+son positivos, y cuántos son negativos.

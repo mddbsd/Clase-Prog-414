@@ -1,0 +1,32 @@
+Ejercicio 1
+Realiza un programa que pida dos números y que luego muestre el resultado
+de su multiplicación.
+
+Ejercicio 2
+Realiza un conversor de dolares a pesos. La cantidad de dolares que se quiere
+convertir debe ser introducida por teclado.
+
+Ejercicio 3
+Realiza un conversor de pesos a dolares. La cantidad de pesos que se quiere
+convertir debe ser introducida por teclado.
+
+Ejercicio 4
+Escribe un programa que sume, reste, multiplique y divida dos números
+introducidos por teclado.
+
+Ejercicio 5
+Escribe un programa que calcule el área de un rectángulo.
+
+Ejercicio 6
+Escribe un programa que calcule el total de una factura a partir
+de la base imponible.
+
+Ejercicio 7
+Escribe un programa que calcule el salario semanal de un empleado en base a
+las horas trabajadas, a razón de 250 pesos la hora.
+
+Ejercicio 8
+Realiza un conversor de Mb a Kb.
+
+Ejercicio 9
+Realiza un conversor de kb a Mb.
